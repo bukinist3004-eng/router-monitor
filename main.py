@@ -2,9 +2,9 @@ import asyncio
 from ping3 import ping
 from telegram import Bot
 
-TOKEN = 8454012215
-CHAT_ID = 312486348
-HOST = 46.219.211.190
+TOKEN = "8454012215"
+CHAT_ID = "312486348:AAG4TLx_z75yMAyJsFuJ1QjXi10B42fmsnI"
+HOST = "46.219.211.190"
 
 CHECK_INTERVAL = 30
 
