@@ -1,0 +1,2 @@
+ping3
+python-telegram-bot==20.7
